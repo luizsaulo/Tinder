@@ -41,7 +41,7 @@ body {
 .photo {
     width: 98vw;
     height: 85vh;
-    background:url('.images/pexels-savannah-dematteo-2346735.jpg') center center/cover;
+    background:url('./images/pexels-savannah-dematteo-2346735.jpg') center center/cover;
     border-radius: 10px;
     display: flex;
     align-items: flex-end;
